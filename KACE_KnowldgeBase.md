@@ -20,7 +20,7 @@ Since we are not (likely) staying with KACE, organzing this by catagory isn't ne
 
 Since everyting is either Windows or SMS leave this blank.
 
-###Importance:
+### Importance:
 
 Everything is important so just leave this blank for now.
  
