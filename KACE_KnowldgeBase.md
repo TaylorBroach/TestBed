@@ -26,6 +26,8 @@ Everything is important so just leave this blank for now.
  
 ## Text Box:
 
+### Bold | Quotes | Italics :
+
 File Paths Example: ***'T:\Administration\Software\InfoGenesis Terminal Patching'***
 
 Menu Navigation: ***File -> Setup -> Sales Reps***
@@ -35,12 +37,12 @@ Radio Buttons: **Close**, **OK**, **Cancel**
 User name & Passwords: **user name:** *admin* **password:** *hello123*
 
 
-
+### Layout Recommendation:
 The layout of the Text Box depends on the content of the document.  If the article is just instructions, a walk through and or solution(s), just a Resolution is needed.  If the doc is a new or known issue, preface the article with the issue(s) that the user is experiencing in bullet form and finish with the Resolution in a numbered list.
 
 
 
-###Instruction/Walk Through Example:
+### Instruction/Walk Through Example:
 
 **Instructions**
 
